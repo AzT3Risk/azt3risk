@@ -1,0 +1,40 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Banaras Hindu University
+  title-url: https://www.bhu.ac.in/
+  date: 2020 - 2022
+  subtitle: M.Sc. Statistics & Computing
+  timeline-side: left
+
+- title: Asutosh College 
+  title-url: https://asutoshcollege.in/
+  date: 2017 - 2020
+  subtitle: B.Sc (Honours) Statistics
+  timeline-side: right
+
+- title: Hare School
+  date: 2015 - 2017
+  subtitle: Senior Secondary (12th)
+  timeline-side: left
+
+- title: Dr. Shyama Prasad Mukherjee Institution
+  date: 2005 - 2015
+  subtitle: Secondary (10th)
+  timeline-side: right
