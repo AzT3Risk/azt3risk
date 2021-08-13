@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **NLP**
 
-- 👨‍💻 My portfolio [https://azt3risk.github.io/azt3risk/](https://azt3risk.github.io/azt3risk/)
+- 👨‍💻 My portfolio [LINK](https://azt3risk.github.io/azt3risk/)
 
 - 💬 Ask me about **Statistics, Python**
 
 - 📫 How to reach me **souvik.sta8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/104lRs1gA2xf_ciwtXuOi7VARLp7NIRVb/view?usp=sharing](https://drive.google.com/file/d/104lRs1gA2xf_ciwtXuOi7VARLp7NIRVb/view?usp=sharing)
+- 📄 Know about my experiences [LINK](https://drive.google.com/file/d/104lRs1gA2xf_ciwtXuOi7VARLp7NIRVb/view?usp=sharing)
 
 - ⚡ Fun fact **DATA > OPINION**
 
